@@ -14,4 +14,3 @@ def matrix_shape(matrix):
         dimensions.append(len(ptr))
         ptr = ptr[0]
     return dimensions
-    

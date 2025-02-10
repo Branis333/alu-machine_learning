@@ -50,7 +50,7 @@ By the end of this project, you should be able to:
 
 ### Python Scripts
 
-- Allowed editors: vi, vim, emacs
+- Allowed editors: vi, vim, emacs    
 - All your files will be interpreted/compiled on Ubuntu 16.04 LTS using Python 3.5
 - Your files will be executed with NumPy (version 1.15)
 - ...
